@@ -13,7 +13,7 @@
         "php": "^8.2",
         "phpstan/phpstan": "^1.0",
         "nikic/php-parser": "^5.0",
-        "shish/safe": "^2.0"
+        "shish/safe": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^11.0",
